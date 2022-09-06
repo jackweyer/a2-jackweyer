@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 228.60001 125.94166"
+   height="476"
+   width="864"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="709.37961"
+       y="36.546638"
+       width="152.7462"
+       height="73.093275"
+       id="rect1399" />
+    <rect
+       x="481.66594"
+       y="233.33623"
+       width="49.665944"
+       height="31.861171"
+       id="rect1267" />
+    <rect
+       x="483.54013"
+       y="240.83297"
+       width="41.232104"
+       height="29.986985"
+       id="rect1261" />
+    <rect
+       x="491.97397"
+       y="170.55098"
+       width="78.715835"
+       height="67.470716"
+       id="rect990" />
+    <rect
+       x="507.90456"
+       y="197.72668"
+       width="56.225597"
+       height="27.175705"
+       id="rect984" />
+    <rect
+       x="512.59002"
+       y="200.53796"
+       width="33.735358"
+       height="20.616052"
+       id="rect924" />
+    <rect
+       x="451.31078"
+       y="267.49038"
+       width="48.173623"
+       height="29.157719"
+       id="rect619" />
+    <rect
+       id="rect946"
+       height="9.1315785"
+       width="0.17832902"
+       y="56.477933"
+       x="92.998583" />
+    <marker
+       style="overflow:visible"
+       id="marker1171"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1169" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1131"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1129" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path854" />
+    </marker>
+    <rect
+       x="491.97397"
+       y="170.55098"
+       width="78.715836"
+       height="67.470718"
+       id="rect990-9" />
+    <rect
+       x="491.97397"
+       y="170.55098"
+       width="78.715836"
+       height="67.470718"
+       id="rect990-0" />
+    <rect
+       x="491.97397"
+       y="170.55098"
+       width="78.715836"
+       height="67.470718"
+       id="rect990-6" />
+    <rect
+       x="491.97397"
+       y="170.55098"
+       width="78.715836"
+       height="67.470718"
+       id="rect990-6-8" />
+    <rect
+       x="491.97397"
+       y="170.55098"
+       width="78.715836"
+       height="67.470718"
+       id="rect990-7" />
+    <rect
+       x="491.97397"
+       y="170.55098"
+       width="78.715836"
+       height="67.470718"
+       id="rect990-9-9" />
+    <rect
+       x="491.97397"
+       y="170.55098"
+       width="78.715836"
+       height="67.470718"
+       id="rect990-6-4" />
+    <rect
+       x="481.66595"
+       y="233.33623"
+       width="49.665943"
+       height="31.861172"
+       id="rect1267-4" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer1">
+    <path
+       id="path1127"
+       d="M 34.415565,102.86731 V 17.796129"
+       style="fill:none;stroke:#000000;stroke-width:0.704269;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1131)" />
+    <path
+       id="path1167"
+       d="M 34.171096,102.48916 189.93496,101.88162"
+       style="fill:none;stroke:#000000;stroke-width:0.894031;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1171)" />
+    <text
+       transform="rotate(-90)"
+       id="text1333"
+       y="23.334852"
+       x="-102.57291"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:3.88056px;stroke-width:0.264583"
+         y="23.334852"
+         x="-102.57291"
+         id="tspan1331">Public expenditure on Education (% of GDP) in 2017</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       x="67.961021"
+       y="112.47192"
+       id="text1337"><tspan
+         id="tspan1335"
+         x="67.961021"
+         y="112.47192"
+         style="font-size:3.88056px;stroke-width:0.264583">Public expenditure on Education (% of GDP) in 2005</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       x="195.53616"
+       y="49.709209"
+       id="text918"><tspan
+         id="tspan916"
+         x="195.53616"
+         y="49.709209"
+         style="font-size:3.88056px;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#000000;fill-opacity:1;stroke:#999999;stroke-width:0.264583;stroke-opacity:1"
+       x="83.216057"
+       y="57.534786"
+       id="text895"><tspan
+         id="tspan893"
+         x="83.216057"
+         y="57.534786"
+         style="font-weight:bold;font-size:2.46944px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1">EGY</tspan></text>
+    <text
+       id="text901"
+       y="74.84346"
+       x="80.734001"
+       style="font-size:2.46944px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:2.46944px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         y="74.84346"
+         x="80.734001"
+         id="tspan899">IRN</tspan></text>
+    <rect
+       style="fill:#d83419;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect903"
+       width="3.7485092"
+       height="3.7485092"
+       x="190.70917"
+       y="51.788151" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       x="195.53616"
+       y="55.163872"
+       id="text907"><tspan
+         id="tspan905"
+         x="195.53616"
+         y="55.163872"
+         style="font-size:3.88056px;stroke-width:0.264583">Europe</tspan></text>
+    <circle
+       r="9.7465887"
+       style="fill:#d83419;fill-opacity:1;stroke:none;stroke-width:0.304584;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle915"
+       cx="184.84271"
+       cy="30.496008" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,47.156469,-18.420707)"
+       id="text988-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect990-6);display:inline;fill:#ff0000"><tspan
+         x="491.97461"
+         y="196.462"
+         id="tspan1790"><tspan
+           style="fill:#ffffff"
+           id="tspan1788">ISR</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:0.228089"
+       x="162.87849"
+       y="69.923866"
+       id="text919"><tspan
+         id="tspan917"
+         x="162.87849"
+         y="69.923866"
+         style="font-weight:bold;font-size:2.46944px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.228089">GBR</tspan></text>
+    <circle
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.108238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle921"
+       cx="138.57812"
+       cy="53.462765"
+       r="10.046494" />
+    <circle
+       cy="60.130268"
+       cx="157.46227"
+       id="circle927"
+       style="fill:#d83419;fill-opacity:1;stroke:none;stroke-width:0.238979;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       r="7.6472521" />
+    <text
+       id="text931"
+       y="80.210945"
+       x="160.62526"
+       style="font-size:2.46944px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;font-size:2.46944px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         y="80.210945"
+         x="160.62526"
+         id="tspan929">DEU</tspan></text>
+    <circle
+       r="8.8468733"
+       style="fill:#2f56c2;fill-opacity:1;stroke:none;stroke-width:0.276468;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle933"
+       cx="133.38058"
+       cy="65.863258" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:0.264583"
+       x="169.60344"
+       y="75.233437"
+       id="text937"><tspan
+         id="tspan935"
+         x="169.60344"
+         y="75.233437"
+         style="font-weight:bold;font-size:2.46944px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583">CAN</tspan></text>
+    <text
+       style="font-size:8.46667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';white-space:pre;shape-inside:url(#rect946);display:inline"
+       id="text944"
+       xml:space="preserve" />
+    <rect
+       y="57.159561"
+       x="190.9919"
+       height="3.7485092"
+       width="3.7485092"
+       id="rect1325-6"
+       style="display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text1329-0"
+       y="60.354496"
+       x="196.14661"
+       style="font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';display:inline;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:3.88056px;stroke-width:0.264583"
+         y="60.354496"
+         x="196.14661"
+         id="tspan1327-5">North America</tspan></text>
+    <ellipse
+       style="fill:#0000ff;stroke-width:0.125445"
+       id="path505"
+       cx="48.881771"
+       cy="80.238846"
+       rx="5.2480102"
+       ry="5.0889802" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-85.986917,31.910963)"
+       id="text988-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect990-9);display:inline;fill:#ff0000"><tspan
+         x="491.97461"
+         y="187.03978"
+         id="tspan1794"><tspan
+           style="fill:#ffffff"
+           id="tspan1792">SAL</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#0000ff;stroke-width:0.264583"
+       x="122.09267"
+       y="74.127693"
+       id="text509"><tspan
+         id="tspan507"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="122.09267"
+         y="74.127693" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;white-space:pre;inline-size:9.33626;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="125.78227"
+       y="80.500656"
+       id="text615" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.9505423,-6.1984815)"
+       id="text617"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect619);display:inline;fill:#ffffff" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';fill:#ff0000;stroke-width:0.264583"
+       x="139.09393"
+       y="54.794575"
+       id="text930"><tspan
+         id="tspan928"
+         style="stroke-width:0.264583"></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text982"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.33333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect984);fill:#ff0000" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.49587852,3.9670282)"
+       id="text988"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect990);fill:#ff0000"><tspan
+         x="491.97461"
+         y="196.462"
+         id="tspan1798"><tspan
+           style="fill:#ffffff"
+           id="tspan1796">AUS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';display:inline;stroke-width:0.264583"
+       x="195.98685"
+       y="65.333923"
+       id="text907-8"><tspan
+         id="tspan905-5"
+         x="195.98685"
+         y="65.333923"
+         style="font-size:3.88056px;stroke-width:0.264583">Other</tspan></text>
+    <rect
+       y="62.094074"
+       x="191.02249"
+       height="3.7485092"
+       width="3.7485092"
+       id="rect1325-6-7"
+       style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1259"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect1261);fill:#ffffff"><tspan
+         x="483.54102"
+         y="294.37602"
+         id="tspan1802"><tspan
+           dx="0 25.169302 17.786478"
+           id="tspan1800">MEZ</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1265"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect1267);fill:#ffffff"><tspan
+         x="481.66602"
+         y="249.82494"
+         id="tspan1804">MEX</tspan></text>
+    <circle
+       r="8.5469675"
+       style="display:inline;fill:#d83419;fill-opacity:1;stroke:none;stroke-width:0.267095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle915-5"
+       cx="163.41812"
+       cy="63.296669" />
+    <text
+       xml:space="preserve"
+       id="text922"
+       style="display:inline;fill:#ff0000;font-size:9.33333333px;-inkscape-font-specification:'Times New Roman,  Bold';font-family:'Times New Roman';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect924)"
+       transform="scale(0.26458333)" />
+    <circle
+       style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.0953136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle921-8"
+       cx="97.9869"
+       cy="59.063202"
+       r="8.8468733" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-40.118151,9.1005509)"
+       id="text988-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect990-7);display:inline;fill:#ff0000"><tspan
+         x="491.97461"
+         y="196.462"
+         id="tspan1808"><tspan
+           style="fill:#ffffff"
+           id="tspan1806">SEN</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-30.000651,68.183297)"
+       id="text1397"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect1399);fill:#ffffff"><tspan
+         x="709.37891"
+         y="53.035879"
+         id="tspan1812"><tspan
+           style="fill:#000000"
+           id="tspan1810">Size represents </tspan></tspan><tspan
+         x="709.37891"
+         y="76.369253"
+         id="tspan1816"><tspan
+           style="fill:#000000"
+           id="tspan1814">expenditure in </tspan></tspan><tspan
+         x="709.37891"
+         y="99.702627"
+         id="tspan1820"><tspan
+           style="fill:#000000"
+           id="tspan1818">2010</tspan></tspan></text>
+    <circle
+       r="5.5479155"
+       style="display:inline;fill:#d83419;fill-opacity:1;stroke:none;stroke-width:0.173374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle915-2"
+       cx="79.519333"
+       cy="76.164413" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-55.671358,28.263583)"
+       id="text988-5-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect990-9-9);display:inline;fill:#ff0000"><tspan
+         x="491.97461"
+         y="187.03978"
+         id="tspan1824"><tspan
+           style="fill:#ffffff"
+           id="tspan1822">SVK</tspan></tspan></text>
+    <circle
+       r="9.7465887"
+       style="display:inline;fill:#d83419;fill-opacity:1;stroke:none;stroke-width:0.304584;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle915-1"
+       cx="174.73022"
+       cy="59.962917" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,37.550484,9.844369)"
+       id="text988-7-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect990-6-4);display:inline;fill:#ff0000"><tspan
+         x="491.97461"
+         y="196.462"
+         id="tspan1828"><tspan
+           style="fill:#ffffff"
+           id="tspan1826">SLO</tspan></tspan></text>
+    <circle
+       r="7.9471574"
+       style="display:inline;fill:#d83419;fill-opacity:1;stroke:none;stroke-width:0.248351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle915-8"
+       cx="152.70583"
+       cy="51.36343" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,19.495987,-13.388982)"
+       id="text1265-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect1267-4);display:inline;fill:#ffffff"><tspan
+         x="481.66602"
+         y="249.82494"
+         id="tspan1830">SWI</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,26.145278,16.290789)"
+       id="text988-7-1"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect990-6-8);fill:#ff0000"><tspan
+         x="491.97461"
+         y="196.462"
+         id="tspan1834"><tspan
+           style="fill:#ffffff"
+           id="tspan1832">POL</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,20.626968,10.588187)"
+       id="text988-3"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';white-space:pre;shape-inside:url(#rect990-0);fill:#ff0000"><tspan
+         x="491.97461"
+         y="194.10649"
+         id="tspan1838"><tspan
+           style="fill:#ffffff"
+           id="tspan1836">HUN</tspan></tspan></text>
+  </g>
+  <!-- Code injected by live-server -->
+  <script
+     id="script124">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]></script>
+</svg>

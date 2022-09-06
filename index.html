@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>DSCI 554 Assignment 2</title>
+    
+</head>
+
+<body>
+    This data comes from the UN Data website, under 'Public expenditure on education'. It was updated on November 1, 2021. Here  is a <a
+    target="_blank" href="http://data.un.org/_Docs/SYB/PDFs/SYB64_245_202110_Public%20expenditure%20on%20education.pdf">link</a> to the data.
+    The variable I selected was "Public expenditure on education (% of GDP)" over time.
+    
+    <img src="MY_CHART.svg"/>
+
+    <svg height="500" width="1000">
+        <circle cx="543" cy="107" r="36" stroke="black" stroke-width = "3" fill="gray" />
+        <text x="530" y="107" stroke="white">AUS</text>
+
+        <circle cx="147" cy="196" r="20" stroke="black" stroke-width = "3" fill="blue" />
+        <text x="135" y="196" stroke="white">SAL</text>
+
+
+
+        <circle cx="752.4" cy="43.77" r="35" stroke="black" stroke-width = "3" fill="RED" />
+        <text x="740" y="43.77" stroke="white">ISR</text>
+
+        <circle cx="519.4" cy="145.05" r="32" stroke="black" stroke-width = "3" fill="BLUE" />
+        <text x="500" y="145.05" stroke="white">MEX</text>
+
+        <circle cx="659.2" cy="138.72" r="31" stroke="black" stroke-width = "3" fill="RED" />
+
+        <circle cx="356.3" cy="126.06" r="32" stroke="black" stroke-width = "3" fill="gray" />
+        <text x="340" y="126.06" stroke="white">SEN</text>
+
+        <circle cx="286.4" cy="183.03" r="21" stroke="black" stroke-width = "3" fill="RED" />
+        <text x="270" y="183.03" stroke="white">SVK</text>
+
+        <circle cx="705.8" cy="126.06" r="35" stroke="black" stroke-width = "3" fill="RED" />
+        <text x="690" y="126.06" stroke="white">SLO</text>
+
+        <circle cx="612.6" cy="107.07" r="29" stroke="black" stroke-width = "3" fill="RED" />
+        <text x="600" y="107.07" stroke="white">SWI</text>
+
+        <circle cx="635.9" cy="132.39" r="28" stroke="black" stroke-width = "3" fill="RED" />
+        <text x="620" y="132.39" stroke="white">HUN</text>
+        <text x="650" y="154.72" stroke="white">POL</text>
+
+    </svg>
+</body>
+<body>
+    <svg id="chart" style="background-color:lemonchiffon" width="900px" height="500px"></svg>
+
+    <script>
+    function drawRect(svg, x, y, width, height, fill) {
+      var rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      rect.setAttribute('x', x);
+      rect.setAttribute('y', y);
+      rect.setAttribute('width', width);
+      rect.setAttribute('height', height);
+      rect.setAttribute('fill', fill);
+      svg.appendChild(rect);  //append to svg
+    };
+    
+    function drawCircle(svg, cx, cy, r, fill) {
+      var circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      circle.setAttribute('cx', cx);
+      circle.setAttribute('cy', cy);
+      circle.setAttribute('r', r);
+      circle.setAttribute('fill', fill);
+      svg.appendChild(circle);  //append to svg
+    };
+    
+    function drawText(svg, string, x, y, fill, stroke) {
+      var text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      text.setAttribute('x', x);
+      text.setAttribute('y', y);
+      text.setAttribute('fill', fill);
+      text.setAttribute('stroke', stroke);
+      text.setAttribute('stroke-width', 1);
+      text.setAttribute('font-size', '14px');
+      text.innerHTML = string;
+      svg.appendChild(text);  //append to svg
+    };
+    
+    function drawTextCentered(svg, string, x, y, fill, stroke) {
+      var text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      text.setAttribute('style', 'text-anchor: middle; alignment-baseline: middle;');
+      text.setAttribute('x', x);
+      text.setAttribute('y', y);
+      text.setAttribute('fill', fill);
+      text.setAttribute('stroke', stroke);
+      text.setAttribute('stroke-width', 1);
+      text.setAttribute('font-size', '14px');
+      text.innerHTML = string;
+      svg.appendChild(text);  //append to svg
+    };
+    
+    function drawLine(svg, x1, y1, x2, y2, stroke) {
+      var line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+      line.setAttribute('x1', x1);
+      line.setAttribute('y1', y1);
+      line.setAttribute('x2', x2);
+      line.setAttribute('y2', y2);
+      line.setAttribute('stroke', stroke);
+      line.setAttribute('stroke-width', 2);
+      svg.appendChild(line);  //append to svg
+    };
+    
+    //draw the chart!
+    var svg = document.getElementById('chart');
+    
+    var keys =[
+      { label: 'Europe', key: 'red' },
+      { label: 'North America', key: 'blue' },
+      { label: 'Other', key: 'gray' }
+    ];
+    
+    //draw the legend
+    var i = 0;
+    keys.forEach(d => {
+      drawRect(svg, 592, 91 + 30 * i, 15, 15, d.key);
+      drawText(svg, d.label, 615, 103 + 30 * i);
+      i++;
+    })
+    
+    //draw an axis
+    drawLine(svg, 129, 67, 129, 388, 'black');
+    drawLine(svg, 629, 388, 129, 388, 'black')  //stroke has not default for line!
+    
+    //draw a bubble
+    drawCircle(svg, 446, 163, 27, keys[2].key);
+    drawTextCentered(svg, 'AUS', 446, 163, 'black', 'white');
+
+    drawCircle(svg, 162, 313, 17, keys[1].key);
+    drawTextCentered(svg, 'SAL', 162, 313, 'black', 'white');
+
+    drawCircle(svg, 512, 206, 22, keys[0].key);
+    drawTextCentered(svg, 'HUN', 512, 206, 'black', 'white');
+
+    drawCircle(svg, 596, 56, 27, keys[0].key);
+    drawTextCentered(svg, 'ISR', 596, 56, 'black', 'white');
+
+    drawCircle(svg, 429, 228, 25, keys[1].key);
+    drawTextCentered(svg, 'MEX', 429, 228, 'black', 'white');
+
+    drawCircle(svg, 529, 217, 24, keys[0].key);
+    drawTextCentered(svg, 'POL', 529, 217, 'black', 'white');
+
+    drawCircle(svg, 312, 195, 25, keys[2].key);
+    drawTextCentered(svg, 'SEN', 312, 195, 'black', 'white');
+
+    drawCircle(svg, 262, 292, 17, keys[0].key);
+    drawTextCentered(svg, 'SVK', 262, 292, 'black', 'white');
+
+    drawCircle(svg, 562, 195, 27, keys[0].key);
+    drawTextCentered(svg, 'SLO', 562, 195, 'black', 'white');
+
+    drawCircle(svg, 496, 163, 23, keys[0].key);
+    drawTextCentered(svg, 'SWI', 496, 163, 'black', 'white');
+    </script>
+<img src="visualization.svg"/>
+<img src="newplot.png"/>
+</body>
+</html>
